@@ -1,119 +1,149 @@
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!--                   normienazi :: GitHub Profile README          -->
-<!-- ██████████████████████████████████████████████████████████████ -->
+<!-- NORMIENAZI :: GITHUB PROFILE README -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f0e800&height=8&section=header" width="100%"/>
+</div>
+
+```
+██████████████████████████████████████████████████████████████████
+█                                                                █
+█  ░█████╗░███╗░░██╗██╗██████╗░██╗░░░██╗██████╗░██╗░░██╗        █
+█  ██╔══██╗████╗░██║██║██╔══██╗██║░░░██║██╔══██╗██║░░██║        █
+█  ███████║██╔██╗██║██║██████╔╝██║░░░██║██║░░██║███████║        █
+█  ██╔══██║██║╚████║██║██╔══██╗██║░░░██║██║░░██║██╔══██║        █
+█  ██║░░██║██║░╚███║██║██║░░██║╚██████╔╝██████╔╝██║░░██║        █
+█  ╚═╝░░╚═╝╚═╝░░╚══╝╚═╝╚═╝░░╚═╝░╚═════╝░╚═════╝░╚═╝░░╚═╝       █
+█                                                                █
+██████████████████████████████████████████████████████████████████
+```
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+## ANIRUDH
+### B.TECH VLSI DESIGN · VIT CHENNAI
+
+---
+
+**VLSI ENGINEER IN TRAINING.**
+**SoC DESIGNER. RTL CODER.**
+**CHIP NERD. CAGE FIGHTER.**
+
+---
+
+</td>
+<td width="40%" valign="top" align="right">
+
+```
+╔════════════════╗
+║  STATUS:       ║
+║  BUILDING      ║
+║  CHIPS &       ║
+║  THROWING      ║
+║  PUNCHES       ║
+╚════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## SKILLS
+
+| DOMAIN | STACK | STATUS |
+|---|---|---|
+| **HDL / RTL** | `Verilog` `SystemVerilog` `VHDL` | ██████████ LOCKED IN |
+| **VERIFICATION** | `UVM` `Assertions` `Func. Coverage` | █████████░ DEEP |
+| **ARCHITECTURE** | `RISC-V` `SoC` `AMBA AXI/AHB` | ████████░░ BUILDING |
+| **EDA TOOLS** | `Vivado` `ModelSim` `Cadence` | ████████░░ PROFICIENT |
+| **EMBEDDED** | `FPGA` `ARM Cortex` `Bare-Metal C` | ███████░░░ GROWING |
+| **SCRIPTING** | `Python` `Tcl` `Shell` | ███████░░░ SOLID |
+
+---
+
+## WHAT I AM
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   NOT A SOFTWARE DEV.                                        │
+│   NOT A PCB GUY.                                            │
+│                                                              │
+│   I DESIGN THE CHIPS THAT RUN YOUR SOFTWARE.                │
+│   RTL → SYNTHESIS → TIMING → SILICON.                       │
+│                                                              │
+│   VIT CHENNAI  ·  B.TECH VLSI  ·  SoC DESIGN                │
+│   RISC-V  ·  UVM TESTBENCHES  ·  LOW POWER DESIGN           │
+│                                                              │
+│   ALSO: MMA. BECAUSE PRECISION MATTERS EVERYWHERE.          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## CURRENT MISSION
+
+```
+> DESIGNING   ── RISC-V PIPELINED PROCESSOR CORE
+> STUDYING    ── ADVANCED UVM METHODOLOGIES
+> EXPLORING   ── AMBA BUS PROTOCOL DESIGN
+> TRAINING    ── MMA / STRIKING / GRAPPLING
+> OBSESSING   ── LOW POWER SoC ARCHITECTURES
+```
+
+---
+
+## STACK
+
+![Verilog](https://img.shields.io/badge/VERILOG-000000?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SYSTEMVERILOG-000000?style=for-the-badge&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-000000?style=for-the-badge&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-000000?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Vivado](https://img.shields.io/badge/VIVADO-000000?style=for-the-badge&logoColor=white)
+
+---
+
+## NUMBERS
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ███╗   ██╗ ██████╗ ██████╗ ███╗   ███╗██╗███████╗        ║
-║    ████╗  ██║██╔═══██╗██╔══██╗████╗ ████║██║██╔════╝        ║
-║    ██╔██╗ ██║██║   ██║██████╔╝██╔████╔██║██║█████╗          ║
-║    ██║╚██╗██║██║   ██║██╔══██╗██║╚██╔╝██║██║██╔══╝          ║
-║    ██║ ╚████║╚██████╔╝██║  ██║██║ ╚═╝ ██║██║███████╗        ║
-║    ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝       ║
-║                                                              ║
-║             ANIRUDH  //  VLSI ENGINEER IN TRAINING           ║
-║                  VIT CHENNAI  ·  B.Tech VLSI                 ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=RTL+Designer+%7C+SoC+Architect+%7C+Chip+Nerd;RISC-V+%7C+UVM+%7C+Verilog+%7C+SystemVerilog;Turning+silicon+dreams+into+gate-level+reality;Also+throws+punches+%F0%9F%A5%8A)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=normienazi&show_icons=true&hide_border=true&bg_color=f0e800&title_color=000000&icon_color=000000&text_color=000000)
 
 </div>
 
 ---
 
-## `$ whoami`
+## PHILOSOPHY
 
-```yaml
-name      : Anirudh (normienazi)
-degree    : B.Tech VLSI Design — VIT Chennai
-focus     : SoC Design · RTL Coding · Verification · Embedded Systems
-interests : RISC-V Architecture · UVM Testbenches · Low-Power Design
-irl       : MMA fighter (the real silicon stress test)
+```
+████████████████████████████████████████████████████████████
+█                                                          █
+█   THE WAVEFORM DOESN'T LIE.                             █
+█   THE TIMING REPORT DOESN'T LIE.                        █
+█   YOUR GUT FEELING DOES.                                █
+█                                                          █
+█   SIMULATE. SYNTHESIZE. FIX. REPEAT.                    █
+█                                                          █
+████████████████████████████████████████████████████████████
 ```
 
 ---
 
-## `$ cat skills.txt`
-
 <div align="center">
 
-| Domain | Tools & Tech |
-|--------|-------------|
-| **HDL / RTL** | `Verilog` `SystemVerilog` `VHDL` |
-| **Verification** | `UVM` `Functional Coverage` `Assertions` |
-| **Architecture** | `RISC-V` `SoC Design` `Bus Protocols` |
-| **EDA Tools** | `Vivado` `ModelSim` `Cadence` |
-| **Embedded** | `ARM Cortex` `FPGA` `Bare-metal C` |
-| **Scripting** | `Python` `Tcl` `Shell` |
+**[NORMIENAZI]** &nbsp;·&nbsp; **[VIT CHENNAI]** &nbsp;·&nbsp; **[VLSI B.TECH]** &nbsp;·&nbsp; **[CHENNAI, INDIA]**
+
+![](https://komarev.com/ghpvc/?username=normienazi&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 </div>
 
----
-
-## `$ ls -la /interests`
-
-```bash
-drwxr-xr-x  SoC_Design/          # RTL-to-GDSII, floorplanning, timing
-drwxr-xr-x  RISC-V/              # Custom ISA extensions, pipeline design
-drwxr-xr-x  UVM_Verification/    # Constrained random, coverage-driven
-drwxr-xr-x  Embedded_Systems/    # FPGA prototyping, bare-metal drivers
-drwxr-xr-x  Low_Power_Design/    # Clock gating, power domains
--rw-r--r--  MMA_Training.log     # Discipline. Precision. Repetition.
-```
-
----
-
-## `$ git log --oneline --graph`
-
-```
-* Currently studying: Advanced UVM methodologies
-* Working on: RISC-V pipelined core implementation
-* Exploring: AMBA AXI/AHB protocol design
-* Building: RTL verification environments from scratch
-```
-
----
-
-## `$ ping normienazi`
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-normienazi-181717?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/normienazi)
-[![VIT Chennai](https://img.shields.io/badge/VIT_Chennai-B.Tech_VLSI-00FF41?style=for-the-badge&logo=academia&logoColor=black)](https://vit.ac.in)
-
-</div>
-
----
-
-## `$ top` — GitHub Stats
-
-<div align="center">
-
-![normienazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=normienazi&show_icons=true&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=normienazi&layout=compact&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
-
-</div>
-
----
-
-<div align="center">
-
-```
-/* Silicon never lies. The waveform is the truth. */
-
-while (true) {
-    simulate();
-    synthesize();
-    optimize();
-    repeat();
-}
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=normienazi&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f0e800&height=8&section=footer" width="100%"/>
 </div>
