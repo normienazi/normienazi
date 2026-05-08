@@ -33,7 +33,6 @@ degree    : B.Tech VLSI Design — VIT Chennai
 focus     : SoC Design · RTL Coding · Verification · Embedded Systems
 interests : RISC-V Architecture · UVM Testbenches · Low-Power Design
 irl       : MMA fighter (the real silicon stress test)
-status    : grep -r "opportunities" ~/internships/ --include="*.yaml"
 ```
 
 ---
